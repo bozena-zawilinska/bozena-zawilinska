@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bozena-zawilinska | Web Developer | WordPress Expert
-- 🖥️ I know WordPress, PHP, JavaScript, React, jQuery, CSS, Sass, HTML, Bootstrap..
+- 👋 Hi, I’m @bozena-zawilinska | Front-End Developer | WordPress Expert
+- 🖥️ I work with WordPress, PHP, JavaScript, Vue.js, SCSS, HTML, Git
 - 🌱 One thing you should know about me is that I will newer stop learnig! 
 - ❤️ I love challenges, learning, my family, HIIT workouts and playing board games
 - 👀 View my LinkedIn profile https://www.linkedin.com/in/zawilinska/
